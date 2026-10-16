@@ -5,7 +5,7 @@
 
 ## Estado
 
-Este documento define el alcance y el plan del producto. El aplicativo todavía debe implementarse; por tanto, las funciones descritas aquí son requisitos propuestos y no capacidades disponibles en el prototipo actual de SAMKA.
+Este documento define el alcance y el plan del producto. El aplicativo todavía debe implementarse; por tanto, las funciones descritas aquí son requisitos propuestos y no capacidades disponibles en el prototipo actual de SAMKA. https://valeriarevilla175-crypto.github.io/SAMAKA7/
 
 ## Objetivo
 
